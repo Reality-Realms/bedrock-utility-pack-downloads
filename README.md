@@ -4,7 +4,7 @@ A family-friendly add-on for Minecraft Bedrock Edition. It adds personal quality
 
 ## Download
 
-**[Download Bedrock Utility Pack 1.10.10 (.mcaddon)](https://github.com/Reality-Realms/bedrock-utility-pack-downloads/releases/download/v1.10.10/Bedrock-Utility-Pack-v1.10.10.mcaddon)**
+**[Download Bedrock Utility Pack 1.10.11 (.mcaddon)](https://github.com/Reality-Realms/bedrock-utility-pack-downloads/releases/download/v1.10.11/Bedrock-Utility-Pack-v1.10.11.mcaddon)**
 
 All files: [Releases](https://github.com/Reality-Realms/bedrock-utility-pack-downloads/releases)
 
@@ -14,7 +14,7 @@ All files: [Releases](https://github.com/Reality-Realms/bedrock-utility-pack-dow
 
 1. Back up your world.
 2. Download the `.mcaddon` file and open it. Minecraft imports both packs.
-3. In your world settings, activate **Bedrock Utility Pack 1.10.10** and its matching **Resources** pack. Remove any older version pair.
+3. In your world settings, activate **Bedrock Utility Pack 1.10.11** and its matching **Resources** pack. Remove any older version pair.
 4. Enable Beta APIs / scripting if Minecraft asks.
 5. In game, type `/mod:menu`, switch a utility **ON**, then **Save**. Use `/mod:off` to stop everything.
 
@@ -26,6 +26,6 @@ All files: [Releases](https://github.com/Reality-Realms/bedrock-utility-pack-dow
 
 ## Checksum
 
-SHA-256 of the `.mcaddon`: `ABA9083BCD2B12DC22E0C348AE4C16F39E908D6E33DCADFFBFB3B7460F9A9F2D`
+SHA-256 of the `.mcaddon`: `A8CE4B72099671D5E43A3D741F6E2D3988EFCDA53EFACB00EC6B85E8C5ECB3C9`
 
 Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
