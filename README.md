@@ -1,10 +1,12 @@
-# Bedrock Utility Pack - downloads
+# Skybound Toolkit
 
-A family-friendly add-on for Minecraft Bedrock Edition. It adds personal quality-of-life utilities such as flight in your own worlds, building helpers, Night Vision and opt-in assisted mining, all controlled through `/mod:menu`.
+![Skybound Toolkit](key-art.png)
+
+Fly, bridge, climb and light up the dark. **Skybound Toolkit** is a family-friendly add-on for Minecraft Bedrock Edition with 20 one-tap utilities for your own worlds, plus gadgets and opt-in 3x3 tunnel mining.
 
 ## Download
 
-**[Download Bedrock Utility Pack 1.10.12 (.mcaddon)](https://github.com/Reality-Realms/bedrock-utility-pack-downloads/releases/download/v1.10.12/Bedrock-Utility-Pack-v1.10.12.mcaddon)**
+**[Download Skybound Toolkit 1.11.0 (.mcaddon)](https://github.com/Reality-Realms/bedrock-utility-pack-downloads/releases/download/v1.11.0/Skybound-Toolkit-v1.11.0.mcaddon)**
 
 All files: [Releases](https://github.com/Reality-Realms/bedrock-utility-pack-downloads/releases)
 
@@ -14,7 +16,7 @@ All files: [Releases](https://github.com/Reality-Realms/bedrock-utility-pack-dow
 
 1. Back up your world.
 2. Download the `.mcaddon` file and open it. Minecraft imports both packs.
-3. In your world settings, activate **Bedrock Utility Pack 1.10.12** and its matching **Resources** pack. Remove any older version pair.
+3. In your world settings, activate **Skybound Toolkit 1.11.0** and its matching **Resources** pack. Remove any older "Bedrock Utility Pack" pair.
 4. Enable Beta APIs / scripting if Minecraft asks.
 5. In game, type `/mod:menu`. Open a category and tap a utility to switch it ON or OFF. Use `/mod:off` to stop everything, and `/mod:menustyle` to switch between the full-screen and classic menu.
 
@@ -26,6 +28,6 @@ All files: [Releases](https://github.com/Reality-Realms/bedrock-utility-pack-dow
 
 ## Checksum
 
-SHA-256 of the `.mcaddon`: `50AF78F0886C542EC3B72ACAF065F6B8723B3B2796DAD3B43C4398573514A5CF`
+SHA-256 of the `.mcaddon`: `93BEB9E1DFFB811D2E4106753244CAB4538185C432AF93EFAD70DE07C5BF67D7`
 
 Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
