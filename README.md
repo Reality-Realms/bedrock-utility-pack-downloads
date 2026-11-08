@@ -6,7 +6,7 @@ Fly, bridge, climb and light up the dark. **Skybound Toolkit** is a family-frien
 
 ## Download
 
-**[Download Skybound Toolkit 1.15.2 (.mcaddon)](https://github.com/Reality-Realms/bedrock-utility-pack-downloads/releases/download/v1.15.2/Skybound-Toolkit-v1.15.2.mcaddon)**
+**[Download Skybound Toolkit 1.15.3 (.mcaddon)](https://github.com/Reality-Realms/bedrock-utility-pack-downloads/releases/download/v1.15.3/Skybound-Toolkit-v1.15.3.mcaddon)**
 
 All files: [Releases](https://github.com/Reality-Realms/bedrock-utility-pack-downloads/releases)
 
@@ -16,7 +16,7 @@ All files: [Releases](https://github.com/Reality-Realms/bedrock-utility-pack-dow
 
 1. Back up your world.
 2. Download the `.mcaddon` file and open it. Minecraft imports both packs.
-3. In your world settings, activate **Skybound Toolkit 1.15.2** and its matching **Resources** pack. Remove any older "Bedrock Utility Pack" pair.
+3. In your world settings, activate **Skybound Toolkit 1.15.3** and its matching **Resources** pack. Remove any older "Bedrock Utility Pack" pair.
 4. Enable Beta APIs / scripting if Minecraft asks.
 5. In game, type `/sky:menu`. Open a category and tap a utility to switch it ON or OFF. Use `/sky:off` to stop everything, and `/sky:menustyle` to switch between the full-screen and classic menu.
 
@@ -28,6 +28,6 @@ All files: [Releases](https://github.com/Reality-Realms/bedrock-utility-pack-dow
 
 ## Checksum
 
-SHA-256 of the `.mcaddon`: `355983939B189A3189C8EB34C7C1EEE7362CAB14D3C4D89BFB48BA8764931A80`
+SHA-256 of the `.mcaddon`: `1D4FFD58C0A1F4F23F78EA59B9FB91F89D14E6DD72C08CF01F5E9CA90574CE27`
 
 Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
