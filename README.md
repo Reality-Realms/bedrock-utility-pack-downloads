@@ -28,6 +28,6 @@ All files: [Releases](https://github.com/Reality-Realms/bedrock-utility-pack-dow
 
 ## Checksum
 
-SHA-256 of the `.mcaddon`: `AC3199E19CFB72896E73F1C3015123DED8156DF33CCFF289DA220DF661D97909`
+SHA-256 of the `.mcaddon`: `82B72EC28AB1DBC788376A6D3FF9AC03F4D7877A886E56F9DCA21E4E7FF636E8`
 
 Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
